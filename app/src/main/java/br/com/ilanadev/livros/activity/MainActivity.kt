@@ -1,7 +1,8 @@
-package br.com.ilanadev.livros
+package br.com.ilanadev.livros.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import br.com.ilanadev.livros.R
 
 class MainActivity : AppCompatActivity() {
 
