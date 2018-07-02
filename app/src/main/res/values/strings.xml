@@ -1,3 +1,66 @@
 <resources>
-    <string name="app_name">Livros</string>
+    <string name="app_name">Carros01</string>
+    <!-- A -->
+    <string name="action_about">Sobre</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="action_deletar">Deletar</string>
+    <string name="about_dialog_text">
+<![CDATA[
+<b>Aplicativo dos Carros</b><br>
+Versao %s<br><br>
+	]]>
+	</string>
+    <string name="about_dialog_title">Livro Android</string>
+    <!-- C -->
+    <string name="livros">Livros</string>
+    <string name="configuracoes">Configuraçõeses</string>
+    <!-- D -->
+    <string name="descricao">Descrição</string>
+
+    <!-- F -->
+    <string name="favoritos">Favoritos</string>
+
+    <!-- H -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- L -->
+    <string name="latitudeLongitude">Latitude / Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="login_no_app">Livros E-commerce</string>
+    <string name="login">login</string>
+
+    <!-- M -->
+    <string name="mapa">Mapa</string>
+    <string name="msg_sem_internet">Sem internet.</string>
+    <string name="msg_aguarde">Por favor aguarde…</string>
+    <string name="msg_error_form_nome">Nome é obrigatório</string>
+    <string name="msg_error_form_desc">Descrição é obrigatório</string>
+    <string name="msg_login_is_required">Informe o login</string>
+    <string name="msg_senha_is_required">Informe a senha</string>
+
+    <!-- N -->
+    <string name="nao">Não</string>
+    <string name="nome">Nome</string>
+    <string name="novo_carro">Novo Carro</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <!-- O -->
+    <string name="ok">OK</string>
+
+    <!-- S -->
+    <string name="sim">Sim</string>
+    <string name="sobre">Sobre</string>
+    <string name="senha">Senha</string>
+
+    <!-- U -->
+    <string name="url_video">Vídeo</string>
+
+    <!-- V -->
+    <string name="vazio" />
+    <string name="video">Vídeo</string>
+
 </resources>
