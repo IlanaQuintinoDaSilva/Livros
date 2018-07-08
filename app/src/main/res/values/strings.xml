@@ -3,4 +3,5 @@
     <string name="login">Login</string>
     <string name="senha">Senha</string>
     <string name="login_no_app">Livros E-commerce</string>
+    <string name="msg_login_is_required">Informe o login</string>
 </resources>
